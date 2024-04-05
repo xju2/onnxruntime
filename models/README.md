@@ -1,1 +1,2 @@
-* **x1_network.onnx**: /cvmfs/atlas.cern.ch/repo/sw/database/GroupData/dev/BTagging/20230307/gn2v00/antiktvr30rmax4rmin02track/network.onnx
+* **x1.onnx**: /cvmfs/atlas.cern.ch/repo/sw/database/GroupData/dev/BTagging/20230307/gn2v00/antiktvr30rmax4rmin02track/network.onnx
+* **x2.onnx**: /cvmfs/atlas.cern.ch/repo/sw/database/GroupData/dev/BTagging/20231205/GN2v01/antikt4empflow/network_fold0.onnx
